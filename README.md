@@ -1,3 +1,3 @@
 # SFML-Final-Games
 
-In this repository you can see my final SFML games made by me.
+In this repository you can see the SFML games finished by me.
